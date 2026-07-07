@@ -1,7 +1,7 @@
 <table border="0">
   <tr>
     <td align="center" valign="top" width="200">
-      <img src="https://avatars.githubusercontent.com/TheCawa" width="140" style="border-radius: 50%; border: 2px solid #ff2222;" />
+      <img src="https://cawas.duckdns.org/TheCawa.png" width="140" style="border-radius: 50%; border: 2px solid #ff2222;" />
       <br><br>
       <code><b>TheCawa</b></code>
       <p><font color="#ff2222" size="2"><code>// Independent Dev</code></font></p>
