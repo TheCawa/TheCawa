@@ -8,7 +8,7 @@
     </td>
     <td align="left" valign="top" style="padding-left: 25px;">
       <h3>
-        Middle Python / Systems Developer at <code>Cawas Inc</code>.
+        Middle Python / Systems Developer at <code>TCXInc</code>.
       </h3>
       <pre lang="ansi">
 <font color="#ff2222"><b>[CRITICAL]</b></font> Core loaded: AntiYandex, NovEng, CawOS.
