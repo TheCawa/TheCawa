@@ -18,6 +18,7 @@
       <p>
         <a href="https://t.me/thecawax"><code>[ Telegram ]</code></a> &nbsp;
         <a href="https://t.me/thecawac"><code>[ TG Channel ]</code></a> &nbsp;
+        <a href="https://discord.gg/pUtDZZGptq"><code>[ Discord Server ]</code></a> &nbsp;
         <a href="https://www.donationalerts.com/r/cawa_ru"><code>[ Donate ]</code></a>
       </p>
     </td>
