@@ -16,7 +16,7 @@
 <font color="#22ff66"><b>[STATUS]</b></font>   Online and optimizing memory leaks...
       </pre>
       <p>
-        <a href="https://t.me/thecawax"><code>[ Telegram ]</code></a> &nbsp;
+        <a href="https://t.me/thecawa"><code>[ Telegram ]</code></a> &nbsp;
         <a href="https://t.me/thecawac"><code>[ TG Channel ]</code></a> &nbsp;
         <a  href="https://www.donationalerts.com/r/cawa_ru"><code>[ Donate ]</code></a>
       </p>
